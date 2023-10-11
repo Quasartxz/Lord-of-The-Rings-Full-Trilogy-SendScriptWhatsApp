@@ -4,7 +4,7 @@ Código para enviar o Script inteiro da trilogia O Senhor dos Anéis para seus a
 
 ## Utilização
 
-Abra [LOTR: FullTrilogy - SendScriptWhatsApp.js](/workspaces/SendScriptWhatsApp/LOTR: FullTrilogy - SendScriptWhatsApp.js)
+Abra [LOTR: FullTrilogy - SendScriptWhatsApp.js](https://github.com/Quasartxz/Lord-of-The-Rings-Full-Trilogy-SendScriptWhatsApp))
 
 Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 
